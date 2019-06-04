@@ -13,6 +13,7 @@
 		25F7230A22A5E29E00910644 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 25F7230822A5E29E00910644 /* Main.storyboard */; };
 		25F7230C22A5E2A000910644 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 25F7230B22A5E2A000910644 /* Assets.xcassets */; };
 		25F7230F22A5E2A000910644 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 25F7230D22A5E2A000910644 /* LaunchScreen.storyboard */; };
+		25F7231722A5EF1700910644 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 25F7231622A5EF1600910644 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		25F7230B22A5E2A000910644 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		25F7230E22A5E2A000910644 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		25F7231022A5E2A000910644 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		25F7231622A5EF1600910644 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		25F7230122A5E29E00910644 /* Dark Mode Example */ = {
 			isa = PBXGroup;
 			children = (
+				25F7231622A5EF1600910644 /* README.md */,
 				25F7230222A5E29E00910644 /* AppDelegate.swift */,
 				25F7230422A5E29E00910644 /* SceneDelegate.swift */,
 				25F7230622A5E29E00910644 /* ViewController.swift */,
@@ -127,6 +130,7 @@
 			files = (
 				25F7230F22A5E2A000910644 /* LaunchScreen.storyboard in Resources */,
 				25F7230C22A5E2A000910644 /* Assets.xcassets in Resources */,
+				25F7231722A5EF1700910644 /* README.md in Resources */,
 				25F7230A22A5E29E00910644 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
